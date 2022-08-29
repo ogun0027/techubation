@@ -215,7 +215,12 @@ h6.heading-uppercase,
 
 p {margin-bottom:20px;}
 
-p.lead {font-size:16px;letter-spacing:1px;line-height:32px;/*font-weight:400;*/color:#777;}
+p.lead {font-size:16px;letter-spacing:1px;line-height:32px;/*font-weight:400;*/color:#777; margin-left: 10px; margin-right: 10px;}
+
+.wwa {
+    margin-left: 20px;
+    margin-right: 20px;
+}
 
 a {cursor:pointer;color:#2951d5;text-decoration:none;}
 
