@@ -472,9 +472,17 @@ section,
     letter-spacing: 3px;
 }
 
-.font-large {
-    padding-right: 21rem;
+.slides {
+    padding-right: 5rem;
+    width: 100%;
+    margin-left: 20px;
 }
+
+
+.btn-group-alt {
+    padding-left: 100px;
+}
+
 
 .header-logo:focus,
 .header-logo:hover {
@@ -6899,7 +6907,7 @@ body.mobile .mobile-hidden {
     }
 
     .font-large {
-        font-size: 44px;
+        font-size: 34px;
         line-height: 52px;
     }
 
